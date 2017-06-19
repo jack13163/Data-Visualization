@@ -15,7 +15,7 @@ namespace Drilling
 {
     public partial class DrawFrm : Form
     {
-        //创建绘图控件
+        //创建ZedGraphControl绘图控件
         private ZedGraph.ZedGraphControl[] graphControlArray = null;
 
         //读取excel文件
